@@ -6,5 +6,5 @@
   <groupId>com.listrak</groupId>
   <artifactId>ListrakSDK.Android</artifactId>
   <packaging>aar</packaging>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
 </project>
